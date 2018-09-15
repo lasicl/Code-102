@@ -1,0 +1,18 @@
+body {background-color: aqua;}
+
+
+#title {
+    color:purple;
+}
+
+.Hour {
+    color:blue;
+}
+
+p {
+    font-size: 36px;
+    text-align: center;
+}
+.HourTitle{
+    font-weight:bold;
+}
